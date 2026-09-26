@@ -1,0 +1,19 @@
+# Тестовый диалог. Формат: @Имя: style (style можно не писать)
+
+@Alex
+<breath> Okay Max, the render's almost done. Ninety-eight percent |uh-huh| ninety-nine... <gasp> WAIT. Why did it freeze?!
+
+@Max: deadpan, unimpressed
+<sigh> Because you didn't save the project. Again. <short pause> Am I right?
+
+@Alex: panicked, speaking rapidly
+I... <tsk> no, I saved it! I think. <groan> That's FOUR hours of editing, Max.
+
+@Max: calm, slightly amused
+<chuckle> Relax. Autosave is on |it is?| every five minutes.
+
+@Alex
+<long pause> ...it is? <phew> Oh thank god. I thought my career was over.
+
+@Max: dry, sarcastic
+<laugh> Your career ended when you put music over your voice for the whole video.
