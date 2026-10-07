@@ -4,6 +4,11 @@
 
 Пишешь сценарий в обычном текстовом файле — получаешь WAV: весь диалог целиком, каждую реплику отдельным файлом или готовую дорожку, разложенную по таймкодам под видеоряд.
 
+## Документация
+
+- [Гайд по сценариям: теги, style, голоса, формат сценария](https://github.com/justajazz/VoiceOver/blob/main/docs/Gemini_TTS_%D0%B3%D0%B0%D0%B9%D0%B4_%D0%BF%D0%BE_%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%8F%D0%BC.md) ([PDF](https://github.com/justajazz/VoiceOver/blob/main/docs/Gemini_TTS_%D0%B3%D0%B0%D0%B9%D0%B4_%D0%BF%D0%BE_%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%8F%D0%BC.pdf))
+- [Установка и использование voice.py](https://github.com/justajazz/VoiceOver/blob/main/docs/voice.py_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B8_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.md) ([PDF](https://github.com/justajazz/VoiceOver/blob/main/docs/voice.py_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B8_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf))
+
 ## Возможности
 
 - Диалог двух спикеров одним запросом, с естественными переходами и бэкченнелами `|угу|`
@@ -44,8 +49,8 @@ python voice.py timed.txt --fit         # по таймкодам под вид�
 | `voice.py` | Скрипт озвучки |
 | `dialogue.txt` | Пример диалога без таймкодов |
 | `timed.txt` | Пример сценария с таймкодами |
-| `docs/Gemini_TTS_гайд_по_сценариям.pdf` | Все теги, style, голоса, Voice Design, формат сценария |
-| `docs/voice.py_установка_и_использование.pdf` | Установка, режимы, параметры, ошибки и решения |
+| `docs/Gemini_TTS_гайд_по_сценариям.md` / `.pdf` | Все теги, style, голоса, Voice Design, формат сценария |
+| `docs/voice.py_установка_и_использование.md` / `.pdf` | Установка, режимы, параметры, ошибки и решения |
 
 ## Требования
 
